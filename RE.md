@@ -7,6 +7,6 @@
 ###[How to auto pause and resume the OBS recording with Python](https://www.youtube.com/watch?v=PYt3LiyTh9E)  
 ###  
 ###[OBS Lua](https://github.com/insin/obs-bounce/blob/master/bounce.lua) ♥♥♥♥♥♥   
-###[]()  
+###[My First Lua (and OBS) Script](https://jbscript.dev/my-first-lua-and-obs-script/)  
 ###[]()  
 ###[]()  
