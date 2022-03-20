@@ -8,5 +8,10 @@
 ###  
 ###[OBS Lua](https://github.com/insin/obs-bounce/blob/master/bounce.lua) ♥♥♥♥♥♥   
 ###[My First Lua (and OBS) Script](https://jbscript.dev/my-first-lua-and-obs-script/)  
+###[How to a create simple custom user interface inside OBS Studio with a Lua Script](https://morebackgroundsplease.medium.com/how-to-a-create-simple-custom-user-interface-inside-obs-studio-with-a-lua-script-ef0ff76cfa74)  
+###[Example image of how the OBS Script Gui would look like](https://github.com/Chriscodinglife/OBS-Scene-Creator-Gui-via-Lua-Script) 🎈🎈    
+###[]()  
+###[]()  
+###[]()  
 ###[]()  
 ###[]()  
