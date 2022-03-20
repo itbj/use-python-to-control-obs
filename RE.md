@@ -5,7 +5,8 @@
 ###[Source Code of Python](https://gist.github.com/maxtacu/b10a5362d35e444ed393bb5ad0ff4f2f)  
 ###[auto_everything](https://github.com/yingshaoxo/auto_everything)  
 ###[How to auto pause and resume the OBS recording with Python](https://www.youtube.com/watch?v=PYt3LiyTh9E)  
-###[]()  
+###  
+###[OBS Lua](https://github.com/insin/obs-bounce/blob/master/bounce.lua) ♥♥♥♥♥♥   
 ###[]()  
 ###[]()  
 ###[]()  
